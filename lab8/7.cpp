@@ -1,0 +1,1 @@
+// wap for pure virtual function example using inheritance
